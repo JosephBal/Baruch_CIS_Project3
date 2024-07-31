@@ -6,6 +6,7 @@ This was my 4th project in my CIS 2300 "Programming and Computational Thinking" 
 Given an integer value for K, the value for F can be determined by the following equation: 
 
 ![eqn](CodeCogsEqnF.gif)
+F=((((1+sqrt(5))/2)^k)-(((1-sqrt(5))/2)^k))/sqrt(5)
 
 As an example, when K = 3, F will be 2.0
 
